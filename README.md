@@ -1,28 +1,28 @@
 # Final Project Initial Brainstorming
-
+---
 ### Idea \#1 ###
 
 #### Overall ####
 #### Inspiration ####
 #### My Users ####
+#### Features ####
+Do a 3 part rating (priority/impact/mystery) for each feature.
 
-
-
+---
 ### Idea \#2 ###
 
 #### Overall ####
 #### Inspiration ####
 #### My Users ####
-
 #### Features ####
 Do a 3 part rating (priority/impact/mystery) for each feature.
 
-
+---
 ### My preferred choice ###
 Please indicate which of these ideas is your current favorite and what would choose you to move between.
 
 
-
+---
 ### Organization Plan ###
 How do you plan to stay focused?
 
@@ -32,6 +32,8 @@ Also include what you feel your weaknesses are.
 
 If you plan to use any tools to organize yourself, indicate those here.
 
+
+---
 ### Tech Stack Plan ###
 What stack will I use?
 
