@@ -12,26 +12,26 @@ Twitter fitness community - many people looked to regular people with a perceive
 People are have a fitness skill or certification. People who are looking to get trained/coached in a specific area or field
 
 #### Features ####
--Account: Allowing the user to keep track of their past interactions and connect with others
-  -_*PRIORITY*_: HIGH
-  -_*IMPACT*_: HIGH
-  -_*MYSTERY*_: HIGH
--Profile Survey (on initial setup/login): Who are you looking for? What skills do you have? Skill level? What are you looking to improve?)
-  -_*PRIORITY*_: HIGH
-  -_*IMPACT*_: HIGH
-  -_*MYSTERY*_: HIGH
--Search: specific people, specific skills
-  -_*PRIORITY*_: HIGH
-  -_*IMPACT*_: HIGH
-  -_*MYSTERY*_: HIGH
--Transaction: Trainers should be able to sign up for a monthly membership and clients should be able to pay for services along with a small transaction fee
-  -_*PRIORITY*_: HIGH
-  -_*IMPACT*_: HIGH
-  -_*MYSTERY*_: HIGH
--Location: Clients should be able to find those closest to them.
-  -_*PRIORITY*_: HIGH
-  -_*IMPACT*_: HIGH
-  -_*MYSTERY*_: HIGH
+- Account: Allowing the user to keep track of their past interactions and connect with others
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: HIGH
+- Profile Survey (on initial setup/login): Who are you looking for? What skills do you have? Skill level? What are you looking to improve?)
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: HIGH
+- Search: specific people, specific skills
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: HIGH
+- Transaction: Trainers should be able to sign up for a monthly membership and clients should be able to pay for services along with a small transaction fee
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: HIGH
+- Location: Clients should be able to find those closest to them.
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: HIGH
 
 ---
 ### Idea \#2 ###
@@ -47,27 +47,27 @@ My users will range in age and capabilities but they will also have a range of p
 
 #### Features ####
 Do a 3 part rating (priority/impact/mystery) for each feature.
-  -Account: Allowing the user to keep track of their past projects
-    -_*PRIORITY*_: HIGH
-    -_*IMPACT*_: HIGH
-    -_*MYSTERY*_: HIGH
-  -Search w/Location: Users should be able to use their location to find the closest trades for a project (i.e, plumbers, electricians, full contractors, etc.)
-    -_*PRIORITY*_: LOW
-    -_*IMPACT*_: MED
-    -_*MYSTERY*_: HIGH
-  -Photo Upload: Users should be able to upload a "Inspiration", "To-Do" (Before), and "To-Done" (After) photo to show off what they've done. Which should be allowed to be shared socially (Pinterest, Twitter, Tumblr, Facebook, Instagram)
-    -_*PRIORITY*_: HIGH
-    -_*IMPACT*_: HIGH
-    -_*MYSTERY*_: HIGH
-  -Budget Tab: Users should have a tab within their project for budgeting. It should have an 'expected costs' and 'actual costs'
-  -Materials Tab: Users should be able to keep a list of materials they need to purchase for the project
-    -_*PRIORITY*_: HIGH
-    -_*IMPACT*_: HIGH
-    -_*MYSTERY*_: LOW
-  -Tasks Tab: Users should be able to keep a list of tasks they need to complete for the project. The tasks should be able to reorder, set priority, delete and edit.
-    -_*PRIORITY*_: HIGH
-    -_*IMPACT*_: HIGH
-    -_*MYSTERY*_: LOW
+- Account: Allowing the user to keep track of their past projects
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: HIGH
+- Search w/Location: Users should be able to use their location to find the closest trades for a project (i.e, plumbers, electricians, full contractors, etc.)
+  - _*PRIORITY*_: LOW
+  - _*IMPACT*_: MED
+  - _*MYSTERY*_: HIGH
+- Photo Upload: Users should be able to upload a "Inspiration", "To-Do" (Before), and "To-Done" (After) photo to show off what they've done. Which should be allowed to be shared socially (Pinterest, Twitter, Tumblr, Facebook, Instagram)
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: HIGH
+- Budget Tab: Users should have a tab within their project for budgeting. It should have an 'expected costs' and 'actual costs'
+- Materials Tab: Users should be able to keep a list of materials they need to purchase for the project
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: LOW
+- Tasks Tab: Users should be able to keep a list of tasks they need to complete for the project. The tasks should be able to reorder, set priority, delete and edit.
+  - _*PRIORITY*_: HIGH
+  - _*IMPACT*_: HIGH
+  - _*MYSTERY*_: LOW
 
 ---
 ### My preferred choice ###
