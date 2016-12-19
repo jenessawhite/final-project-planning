@@ -9,7 +9,7 @@ Provide a platform for fitness gurus, personal trainers, athletes, etc. to meet 
 Twitter fitness community - many people looked to regular people with a perceived high amount of training for coaching. These coaches used twitter to provide online and offline coaching/training and advice
 
 #### My Users ####
-People are have a fitness skill or certification. People who are looking to get trained/coached in a specific area or field
+There will be trainers, people who have a fitness skill or certification. There will also be clients, people who are looking to get trained/coached in a specific area or field.
 
 #### Features ####
 - Account: Allowing the user to keep track of their past interactions and connect with others
@@ -84,7 +84,7 @@ While I am good at getting reset I struggle sometimes with hitting a wall and ta
 ---
 ### Tech Stack Plan ###
 1. What stack will I use?
-Both will be React Native applications. Testing will be done using Jest and Enzyme.
+  - Both will be React Native applications. Testing will be done using Jest and Enzyme.
 
 2. Finally, if you see any specific technological or learning barriers that you see in your project, please indicate what they are and why you believe them to be barriers. These are often very similar to your high risk ratings features. Please explain why you see these as particularly risky or if you do not have any high risk items, please explain how you came to that decision.
-  I will have to learn how to create accounts which will be the biggest hurdle. I think the other parts of the application will be relatively low-risk.
+  - I will have to learn how to create accounts which will be the biggest hurdle. I think the other parts of the application will be relatively low-risk.
